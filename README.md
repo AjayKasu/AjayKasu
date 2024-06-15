@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjayKasu
 - 👀 I’m interested in IT TECH.
-- 🌱 I’m currently learning JAVA.
+- 🌱 Cloud,OraApps,Java,Python,HTML,CSS,JS
 - 💞️ I’m looking to collaborate on new ideaology in IT 
 - 📫 How to reach me ajayyadavkasu00@gmail.com
 
